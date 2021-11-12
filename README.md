@@ -8,9 +8,13 @@
 ### :zap: GitHub Stats
 
 <table>
-  <td width="25%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding.gif"/></td>
+  <td width="48%">
+    <img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding.gif"/>
+  </td>
 <tr>
-  <td width="50%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding-freak.gif"/></td>
+  <td width="52%">
+    <img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding-freak.gif"/>
+  </td>
 </tr>
 <table>
 
