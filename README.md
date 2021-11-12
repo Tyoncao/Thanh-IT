@@ -11,6 +11,7 @@
 <tr>
   <td width="48%">
     <img align="left" alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding.gif"/>
+    <img align="left" alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding_full.gif"/>
   </td>
   <td width="52%">
     <img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding-freak.gif"/>
