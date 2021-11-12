@@ -9,7 +9,7 @@
 
 <table>
   <td width="48%">
-    <img alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding.gif"/>
+    <img align="left" alt="gif" align="right" src="https://raw.githubusercontent.com/Tyoncao/Tyoncao/main/coding.gif"/>
   </td>
 <tr>
   <td width="52%">
