@@ -27,6 +27,6 @@
 
 
 ### 📫 Contact me:
-<img src="https://media.giphy.com/media/XEy1qyv7GdLpmqHEPV" width="40px"> EMAIL: caoquangthanhvp@gmail.com
+ EMAIL: caoquangthanhvp@gmail.com
 
 
