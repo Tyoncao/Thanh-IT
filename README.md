@@ -1,4 +1,4 @@
-### Hi, I'm THANH CAO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THANH IT][website] = Software Engineer + Automation Engineer  
+### Hi, I'm Cao Quang Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THANH IT][website] = Software Engineer + Automation Engineer  
 
 
 - 🔭 Passion in something ... (secret😊)
@@ -27,7 +27,8 @@
 
 
 ### 📫 Contact me:
- EMAIL: caoquangthanhvp@gmail.com
- Website : http://theband.freevnn.com/  (demo)
+ EMAIL: caoquangthanhvp@gmail.com 
+ Phone: 0965130856
+ Address: Vinh Phuc
 
 
