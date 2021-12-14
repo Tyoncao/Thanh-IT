@@ -27,7 +27,7 @@
 
 
 ### 📫 Contact me:
-- AIL: caoquangthanhvp@gmail.com 
+- Mail: caoquangthanhvp@gmail.com 
 - Phone: 0965130856
 - Address: Vinh Phuc
 
