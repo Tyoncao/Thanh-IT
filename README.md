@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things
+- 💪 2023 Goals: Learning many things
 - ⭐: Reading, walking, running and play soccer😅
 
 ### :zap: GitHub Stats
